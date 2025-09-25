@@ -1,0 +1,22 @@
+header{
+  background-color: grey;
+    color: white;
+  padding: 20px;
+}
+
+section{
+  background-color:white;
+  color: grey;
+  padding: 20px;
+  margin: 20px;
+  box-shadow: 2px 2px 5px;
+  img{
+    display: block;
+  margin: 0px auto 0px} 
+    
+}
+footer{
+  background-color: black;
+  color: white;
+  text-align: center;
+}
